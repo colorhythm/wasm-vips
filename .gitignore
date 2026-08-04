@@ -74,6 +74,7 @@ CTestTestfile.cmake
 
 # Build output
 dist/
+release/
 
 # User-specific stuff
 package-lock.json

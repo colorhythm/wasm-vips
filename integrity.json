@@ -1,0 +1,66 @@
+{
+    "files": {
+        "LICENSE": {
+            "sha256": "9cbb5847deb22dffbdd860fe659a122d61c144e52cbd3a97d4bb858c5fb9cef6",
+            "size": 1086
+        },
+        "THIRD-PARTY-NOTICES.md": {
+            "sha256": "60f9218bad16ea633a374ac0fdcaba425abf51733837caed146cf6a11acd161a",
+            "size": 3221
+        },
+        "lib/vips-es6.js": {
+            "sha256": "5f7d564012bd8f061382add80a1859bf38f5800adbada416d55adc61c484b4b8",
+            "size": 88511
+        },
+        "lib/vips-heif.wasm": {
+            "sha256": "bb93ea921fd57da009f930dc62048b4548e18116a4af60d2db5a25d8868d42c9",
+            "size": 4579398
+        },
+        "lib/vips-jxl.wasm": {
+            "sha256": "a2d8fbb8f68d7df672169fb181a6cc3986bcdfb930eadfc1143f748b08adf46b",
+            "size": 2331987
+        },
+        "lib/vips-node.js": {
+            "sha256": "e0b6c2a9985dd63cfd7cd5b4c4d9bdc12d26fd812f450986aee005ec4cc82f77",
+            "size": 94738
+        },
+        "lib/vips-node.mjs": {
+            "sha256": "b381b7a3c80425839ce77ee2b17697b5f3584f36cd5b1061ce03ce22e452980b",
+            "size": 94864
+        },
+        "lib/vips-resvg.wasm": {
+            "sha256": "c39e711edd0ad5897c2e978f9866a168297c960e1c7b2f088dcd3333871f8fa6",
+            "size": 1461372
+        },
+        "lib/vips.d.ts": {
+            "sha256": "f0e63d4ac1186030938d85fbba0137b5549b3080170f2f7723aae5ad889f6371",
+            "size": 254701
+        },
+        "lib/vips.js": {
+            "sha256": "85822a63bb0baec2910d793db7913bb9f423b3f8bcadc00bb9a38c1a0459750c",
+            "size": 88756
+        },
+        "lib/vips.wasm": {
+            "sha256": "5be99a8d7fc86edf9b76766c2cf3d7cf1964dc79da400b3bd3142b95788a880f",
+            "size": 5588053
+        },
+        "versions.json": {
+            "sha256": "8214ff8ffdf4d8f24bd572d2505d0bda397141a97a8e6511b4b974e44cbe3e23",
+            "size": 413
+        }
+    },
+    "package": {
+        "name": "@colorhythm/vips-wasm",
+        "version": "0.0.16"
+    },
+    "schemaVersion": 1,
+    "upstream": {
+        "commit": "263bcedf4484deb487c1902c4b8fac5926b0b348",
+        "integrity": "sha512-4/bEq8noAFt7DX3VT+Vt5AgNtnnOLwvmrDbduWfiv9AV+VYkbUU4f9Dam9e6khRqPinyClFHCqiwATTTJEiGwA==",
+        "name": "wasm-vips",
+        "shasum": "4519f25fdb07234cd0ec10850972c4a42773173d",
+        "tarball": "https://registry.npmjs.org/wasm-vips/-/wasm-vips-0.0.16.tgz",
+        "tarballSha256": "0cbd62686fc78b0a06074415d16f7cf5111094e8cc02d9b5b7625b61299768a8",
+        "version": "0.0.16"
+    }
+}
